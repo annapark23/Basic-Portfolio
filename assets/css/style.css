@@ -71,6 +71,21 @@ h2{
 
 }
 
+p{
+    word-wrap: normal;
+    margin: 20px;
+    line-height: 2;
+
+}
+
+.picOfMe{
+    float: left;
+    margin-top: 10px;
+    margin-right: 25px;
+
+}
+
+
 /*
 
 * {
