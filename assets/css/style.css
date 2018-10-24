@@ -13,6 +13,7 @@ header{
     background-color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     margin: 0 160px;
+    border-bottom: 5px solid grey;
 }
 #name{
     position:absolute;
@@ -35,6 +36,8 @@ li{
 }
 a{
     text-align: center;
+    color: grey;
+    text-decoration: none;
 }
 
 footer{
@@ -46,8 +49,14 @@ footer{
 }
 
 .wrapper{
-    padding: 20px;
-    height:20px;
+    padding: 15px;
+    height:15px;
+    border-top: 8px solid #4aaaa5;
+    text-align:center;
+    font-size: 8px;
+
+
+
 }
 
 .inputsection{
@@ -84,6 +93,7 @@ p{
     margin-right: 25px;
 
 }
+
 
 
 /*
